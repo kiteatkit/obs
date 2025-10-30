@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: table
+    filters:
+      or:
+        - file.inFolder("03 Project")
+        - file.inFolder("03 Project/Диплом")
+    limit: 5

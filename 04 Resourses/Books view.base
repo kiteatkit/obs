@@ -1,0 +1,54 @@
+formulas:
+  spacer: |-
+    [
+    link("c: title folder-" + file.folder,
+      title
+    ),
+    link("c: subtitle",
+      if(author.isEmpty(), "", author)
+    ),
+    link("c: link-icon",
+       [link(coveriver_url)]
+    ),
+    link("c: image-overlay align-bottom-right",
+      link("c: pill margin-small", if(status.isEmpty(), "", status))
+    ),
+    link("c: image-overlay align-top-left",
+      link("c: stack-vertical gap-smaller margin-small",
+        if(tags,
+          tags.map(link("c: tag font-smaller", value.toString().replace("#", ""))),
+          ""
+        )
+      )
+    )
+    ]
+views:
+  - type: cards
+    name: cards
+    filters:
+      and:
+        - file.folder == "04 Resourses/Books"
+    order:
+      - title
+      - authors
+      - status
+    sort: []
+    image: note.coverUrl
+    imageFit: contain
+    imageAspectRatio: 1.5
+    cardSize: 140
+  - type: table
+    name: Books
+    filters:
+      and:
+        - file.inFolder("04 Resourses/Books")
+    order:
+      - title
+      - status
+      - authors
+    sort:
+      - property: author
+        direction: ASC
+    columnSize:
+      note.author: 195
+      note.title: 152

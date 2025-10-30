@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Buy
+    filters:
+      and:
+        - file.inFolder("00 Home/To buy")
+    order:
+      - file.name
+      - price
+    sort:
+      - property: price
+        direction: DESC
+    columnSize:
+      file.name: 133

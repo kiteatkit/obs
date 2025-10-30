@@ -1,0 +1,17 @@
+views:
+  - type: cards
+    name: представление
+    filters:
+      and:
+        - file.folder == "04 Resourses/SoloRPG"
+    order:
+      - Название
+      - Система
+      - Категория
+    sort:
+      - property: file.ctime
+        direction: ASC
+    cardSize: 160
+    image: note.Обложка URL
+    imageAspectRatio: 1.3
+    imageFit: contain

@@ -1,0 +1,12 @@
+---
+title:
+director:
+categories:
+publishDate:
+coverUrl:
+coverSmallUrl:
+description:
+link:
+Статус:
+оценка:
+---

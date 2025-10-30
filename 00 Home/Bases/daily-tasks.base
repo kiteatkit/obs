@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: table
+    filters:
+      and:
+        - file.inFolder("00 Home/AllTasks")
+        - scheduled == today()
+    order:
+      - file.name
+      - status
+      - due
+  - type: tasknotesKanban
+    name: today
+    filters:
+      and:
+        - file.inFolder("00 Home/AllTasks")
+        - scheduled == today()

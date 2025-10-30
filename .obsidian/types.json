@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Статус": "multitext",
+    "categories": "multitext",
+    "Система": "text",
+    "location": "multitext",
+    "status": "multitext",
+    "author": "multitext",
+    "title": "multitext",
+    "date": "date",
+    "authors": "multitext",
+    "director": "multitext",
+    "оценка": "number"
+  }
+}

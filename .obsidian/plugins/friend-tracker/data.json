@@ -1,0 +1,11 @@
+{
+  "contactsFolder": "04 Resourses/People",
+  "defaultSortColumn": "daysUntilBirthday",
+  "defaultSortDirection": "asc",
+  "relationshipTypes": [
+    "family",
+    "friend",
+    "colleague"
+  ],
+  "defaultActiveTab": "markdown"
+}

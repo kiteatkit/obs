@@ -1,0 +1,24 @@
+views:
+  - type: table
+    name: films
+    filters:
+      and:
+        - file.inFolder("04 Resourses/Cinema")
+        - Статус != ["не начато","в процессе"]
+    order:
+      - title
+      - director
+      - status
+    sort:
+      - property: Статус
+        direction: ASC
+  - type: cards
+    name: cards
+    filters:
+      and:
+        - file.inFolder("04 Resourses/Cinema")
+    order:
+      - file.name
+      - status
+      - director
+    image: note.coverUrl

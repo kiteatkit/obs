@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: table
+    filters:
+      and:
+        - file.inFolder("00 Home/AllTasks")
+    order:
+      - file.name
+      - status
+      - due
+  - type: tasknotesKanban
+    name: weekly
+    filters:
+      and:
+        - file.inFolder("00 Home/AllTasks")
+        - status.containsAny("в процессе", "open", "in-progress")
+    sort:
+      - property: scheduled
+        direction: ASC

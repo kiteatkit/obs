@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: table
+    filters:
+      and:
+        - file.inFolder("01 Personal/Diary")
+    sort:
+      - property: date
+        direction: DESC
+    limit: 5

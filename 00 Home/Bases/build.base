@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: table
+  - type: cards
+    name: Build
+    filters:
+      and:
+        - file.hasLink("ф")
