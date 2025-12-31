@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -83,12 +83,23 @@
               "icon": "lucide-ghost",
               "title": "notebook-navigator"
             }
+          },
+          {
+            "id": "f0c211cc06a351d3",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 392.5
   },
   "right": {
     "id": "4d37f562336541e4",
@@ -162,16 +173,6 @@
             }
           },
           {
-            "id": "445d7537704690fb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
-          },
-          {
             "id": "2167960965e35370",
             "type": "leaf",
             "state": {
@@ -182,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,14 +192,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-git:Open Git source control": false,
       "tasknotes:Open mini calendar": false,
       "tasknotes:Open advanced calendar": false,
       "tasknotes:Open task list": false,
@@ -210,14 +210,53 @@
       "tasknotes:Create new task": false,
       "homepage:Open homepage": false,
       "callout-manager:Insert Callout": false,
-      "friend-tracker:Open friend tracker": false,
-      "obsidian-map-view:Open map view": false
+      "obsidian-map-view:Open map view": false,
+      "obsidian42-brat:BRAT": false,
+      "simple-dice-roller:Average all dice": false,
+      "simple-dice-roller:Simulate all dice": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "friend-tracker:Open friend tracker": false
     }
   },
-  "active": "6528dbba46c1bd2c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "00 Home/AllTasks/Др степана я обещала викторию в стиме.md",
     "Dashboard.md",
+    "изменения.md",
+    "99 Meta/Files/Pasted image 20251231003019.png",
+    "99 Meta/Files/Pasted image 20251231002949.png",
+    "99 Meta/Files/Pasted image 20251230225336.png",
+    "99 Meta/Files/Pasted image 20251230225238.png",
+    "99 Meta/Files/Pasted image 20251230225223.png",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сет Ингрит.md",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сессия 1.md",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сектор Махарий.md",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum/Правила чтобы не забыть.md",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum/Покровитель.md",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum/Магос Биологис.md",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum/Арк Итерим iii.md",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сет (копия).md",
+    "03 Project/Первый видос на ютуб/愚人船 NARRENSCHIFF.md",
+    "05 TTRPG/Warhammer 40k. Dark Heresy 2/Лист персонажа.md",
+    "03 Project/Первый видос на ютуб",
+    "99 Meta/Files/Pasted image 20251227183409.png",
+    "99 Meta/Files/Pasted image 20251227163951.png",
+    "99 Meta/Files/The_Macharian_Sector.webp",
+    "99 Meta/Templates/Лист персонажа (Imperium Maledictum).md",
+    "99 Meta/Files/Imperium Maledictum - Лист персонажа (Заполняемый)-1.pdf",
+    "99 Meta/Files/Pasted image 20251226094402.png",
+    "99 Meta/Files/Pasted image 20251226093921.png",
+    "04 Resourses/Books view.base",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum",
+    "05 TTRPG/Warhammer 40k. Dark Heresy 2/Без названия.md",
+    "99 Meta/Files/DH_II_-OKP_-_v_1_8.pdf",
+    "04 Resourses/SoloRPG/Core rulebook.md",
+    "04 Resourses/SoloRPG view.base",
+    "04 Resourses/SoloRPG/Листы персонажа (2 ред.).md",
+    "99 Meta/Files/Set_player_list.pdf",
+    "99 Meta/Files/DH_II_-_list_personazha_-_v_1_0.pdf",
+    "05 TTRPG/Warhammer 40k. Dark Heresy 2",
+    "05 TTRPG",
+    "00 Home/AllTasks/Др степана я обещала викторию в стиме.md",
     "преза.md",
     "03 Project/Все достижения в Warhammer Rogue Trader.md",
     "04 Resourses/People/Анастасия Базылева.md",
@@ -225,42 +264,6 @@
     "04 Resourses/People/Настя.md",
     "00 Home/To buy/Круг пепла (5 шт).md",
     "00 Home/To buy/Гал Ворбак (5 шт).md",
-    "00 Home/To buy/Аргел Тал минька.md",
-    "04 Resourses/Books view.base",
-    "Презентация.md",
-    "01 Personal/Контроль импульсивного поведения.md",
-    "00 Home/Bases/watch.base",
-    "04 Resourses/Cinema/The Bloodhound.md",
-    "04 Resourses/Books/Betrayer - Aaron Dembski-Bowden.md",
-    "04 Resourses/Books/Know No Fear - Dan Abnett.md",
-    "04 Resourses/Books/Shadow Point - Gordon Rennie.md",
-    "04 Resourses/Books/Execution Hour - Gordon Rennie.md",
-    "04 Resourses/Books/Untitled.md",
-    "04 Resourses/Books/Первый еретик - Аарон Дембски-Боуден.md",
-    "FriendTracker/n.md",
-    "FriendTracker",
-    "04 Resourses/People",
-    "01 Personal/Diary/22.10.2025.md",
-    "00 Home/AllTasks/Сообщить тему диплома.md",
-    "00 Home/AllTasks/Записаться на дауншифтинг прокола.md",
-    "99 Meta/Templates/film-template.md",
-    "99 Meta/Templates/books-template.md",
-    "04 Resourses/Books/Критический словарь русской революции.md",
-    "04 Resourses/Cinema",
-    "99 Meta/Files/Pasted image 20251020204240.png",
-    "99 Meta/Files/Pasted image 20251020203713.png",
-    "99 Meta/Files/Pasted image 20251020202446.png",
-    "99 Meta/Files/Pasted image 20251020150641.png",
-    "99 Meta/Files/Pasted image 20251018020716.png",
-    "99 Meta/Files/Pasted image 20251015230836.png",
-    "03 Project/Диплом",
-    "04 Resourses/SoloRPG view.base",
-    "02 Knowledge/Frontend",
-    "02 Knowledge/Фото",
-    "00 Home/Bases/weekly-tasks.base",
-    "99 Meta/Files/Pasted image 20250929151519.png",
-    "99 Meta/Files/Screenshot 2025-07-11 172129.png",
-    "99 Meta/Files/7b13ab98520494ceb79cc787a3a009db.png",
-    "99 Meta/Files/7b13ab98520494ceb79cc787a3a009db.jpg"
+    "00 Home/To buy/Аргел Тал минька.md"
   ]
 }

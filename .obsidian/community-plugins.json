@@ -1,14 +1,19 @@
 [
   "obsidian-book-search-plugin",
   "obsidian-banners",
-  "obsidian-git",
   "tasknotes",
-  "obsidian-columns",
   "homepage",
   "callout-manager",
   "horizontal-blocks",
   "friend-tracker",
   "pretty-properties",
   "obsidian-map-view",
-  "obsidian-table-generator"
+  "obsidian-table-generator",
+  "obsidian-style-settings",
+  "tabs",
+  "obsidian42-brat",
+  "markup",
+  "simple-dice-roller",
+  "notebook-navigator",
+  "obsidian-git"
 ]

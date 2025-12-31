@@ -1,5 +1,5 @@
 ---
-banner: https://i.pinimg.com/1200x/57/34/b7/5734b7a0f17419596459d19c40c28423.jpg
+banner: "https://i.pinimg.com/1200x/57/34/b7/5734b7a0f17419596459d19c40c28423.jpg"
 banner_y: 0.29
 ---
 

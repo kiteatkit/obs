@@ -1,39 +1,6 @@
 {
   "hiddenProperties": [],
-  "propertyPillColors": {
-    "в процессе": {
-      "pillColor": "blue",
-      "textColor": "default"
-    },
-    "Аарон Дембски-Боуден": {
-      "pillColor": "default",
-      "textColor": "none"
-    },
-    "Первый еретик": {
-      "pillColor": "none",
-      "textColor": "none"
-    },
-    "open": {
-      "pillColor": "yellow",
-      "textColor": "default"
-    },
-    "done": {
-      "pillColor": "green",
-      "textColor": "default"
-    },
-    "in-progress": {
-      "pillColor": "blue",
-      "textColor": "default"
-    },
-    "не начато": {
-      "pillColor": "red",
-      "textColor": "default"
-    },
-    "закончено": {
-      "pillColor": "green",
-      "textColor": "default"
-    }
-  },
+  "propertyPillColors": {},
   "propertyLongtextColors": {},
   "tagColors": {},
   "enableBanner": true,
@@ -45,6 +12,7 @@
   "extraCoverProperties": [],
   "bannerHeight": 150,
   "bannerHeightMobile": 100,
+  "bannerHeightPopover": 100,
   "bannerMargin": -20,
   "bannerMarginMobile": 0,
   "bannerFading": true,
@@ -56,6 +24,7 @@
   "coverHorizontalWidth": 300,
   "coverSquareWidth": 250,
   "coverCircleWidth": 250,
+  "coverMaxWidthPopover": 150,
   "progressProperties": {},
   "allTasksCount": "tasks",
   "completedTasksCount": "tasks_completed",
@@ -83,18 +52,17 @@
   "iconColor": "",
   "iconColorDark": "",
   "iconBackground": false,
-  "enableBases": true,
   "bannerPositionProperty": "banner_position",
   "addPillPadding": "all",
   "addBaseTagColor": true,
   "enableTasksCount": true,
   "enableColorButtonInBases": false,
-  "customDateFormat": "DD.MM.YYYY",
-  "customDateTimeFormat": "DD.MM.YYYY HH:mm",
-  "enableCustomDateFormat": true,
+  "customDateFormat": "",
+  "customDateTimeFormat": "",
+  "enableCustomDateFormat": false,
   "enableCustomDateFormatInBases": false,
   "enableRelativeDateColors": false,
-  "settingsTab": "PROPERTY_SETTINGS",
+  "settingsTab": "OTHER",
   "enableTaskNotesCount": false,
   "allTNTasksCount": "tn_tasks",
   "completedTNTasksCount": "tn_tasks_completed",
@@ -109,30 +77,40 @@
   "completedTNAndCheckboxTasksCount": "tn_and_checkbox_tasks_completed",
   "uncompletedTNAndCheckboxTasksCount": "tn_and_checkbox_tasks_uncompleted",
   "enableColoredProperties": true,
-  "enableColoredInlineTags": true,
+  "enableColoredInlineTags": false,
   "nonLatinTagsSupport": false,
   "enableColorButton": true,
   "propertySearchKey": "Ctrl",
   "showTagColorSettings": false,
   "iconSizeMobile": 70,
+  "iconSizePopover": 50,
   "hidePropertiesInPropTab": false,
   "autoTasksCount": true,
-  "enableColoredTagsInTagPane": true,
+  "enableColoredTagsInTagPane": false,
   "mathProperties": [],
   "enableMath": false,
-  "dataVersion": 1,
+  "dataVersion": 0,
   "dateColors": {
     "past": {
       "pillColor": "default",
-      "textColor": "red"
+      "textColor": "default"
     },
     "present": {
       "pillColor": "default",
-      "textColor": "green"
+      "textColor": "default"
     },
     "future": {
       "pillColor": "default",
-      "textColor": "cyan"
+      "textColor": "default"
     }
-  }
+  },
+  "coverPosition": "left",
+  "enableBannersInPopover": false,
+  "enableIconsInPopover": false,
+  "enableCoversInPopover": false,
+  "hideAllEmptyProperties": false,
+  "hiddenWhenEmptyProperties": [],
+  "iconInTitle": false,
+  "titleIconSize": 30,
+  "titleTextIconMatchTitleSize": true
 }
