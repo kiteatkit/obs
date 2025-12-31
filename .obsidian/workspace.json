@@ -73,33 +73,12 @@
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
-          },
-          {
-            "id": "62a3bb3870d8b916",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
-            }
-          },
-          {
-            "id": "f0c211cc06a351d3",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook",
-              "title": "Notebook Navigator"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 212.5
   },
   "right": {
     "id": "4d37f562336541e4",
@@ -178,17 +157,26 @@
             "state": {
               "type": "friend-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "friend-tracker-view"
+              "icon": "lucide-file",
+              "title": "Friend tracker"
+            }
+          },
+          {
+            "id": "a81416a10475efc3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,10 +203,11 @@
       "simple-dice-roller:Average all dice": false,
       "simple-dice-roller:Simulate all dice": false,
       "notebook-navigator:Notebook Navigator": false,
-      "friend-tracker:Open friend tracker": false
+      "friend-tracker:Open friend tracker": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a81416a10475efc3",
   "lastOpenFiles": [
     "Dashboard.md",
     "изменения.md",
