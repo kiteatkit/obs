@@ -13,6 +13,7 @@
     "date": "date",
     "authors": "multitext",
     "director": "multitext",
-    "оценка": "number"
+    "оценка": "number",
+    "already buy?": "checkbox"
   }
 }

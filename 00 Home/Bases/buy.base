@@ -4,9 +4,11 @@ views:
     filters:
       and:
         - file.inFolder("00 Home/To buy")
+        - note["already buy?"] != true
     order:
       - file.name
       - price
+      - already buy?
     sort:
       - property: price
         direction: DESC
