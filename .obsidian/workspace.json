@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "изменения.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "изменения"
+              "title": "New tab"
             }
           }
         ]
@@ -44,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -157,8 +153,8 @@
             "state": {
               "type": "friend-tracker-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Friend tracker"
+              "icon": "lucide-ghost",
+              "title": "friend-tracker-view"
             }
           },
           {
@@ -167,8 +163,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -181,12 +177,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "tasknotes:Open mini calendar": false,
       "tasknotes:Open advanced calendar": false,
@@ -204,12 +200,16 @@
       "simple-dice-roller:Average all dice": false,
       "simple-dice-roller:Simulate all dice": false,
       "notebook-navigator:Notebook Navigator": false,
-      "friend-tracker:Open friend tracker": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "friend-tracker:Open friend tracker": false
     }
   },
-  "active": "6528dbba46c1bd2c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Untitled.md",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сет Ингрит.md",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сектор Махарий.md",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сессия 1.md",
     "Dashboard.md",
     "изменения.md",
     "99 Meta/Files/Pasted image 20251231003019.png",
@@ -217,9 +217,6 @@
     "99 Meta/Files/Pasted image 20251230225336.png",
     "99 Meta/Files/Pasted image 20251230225238.png",
     "99 Meta/Files/Pasted image 20251230225223.png",
-    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сет Ингрит.md",
-    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сессия 1.md",
-    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сектор Махарий.md",
     "05 TTRPG/Warhammer 40k Imperium Maledictum/Правила чтобы не забыть.md",
     "05 TTRPG/Warhammer 40k Imperium Maledictum/Покровитель.md",
     "05 TTRPG/Warhammer 40k Imperium Maledictum/Магос Биологис.md",
