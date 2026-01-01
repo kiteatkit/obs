@@ -15,13 +15,10 @@
               "state": {
                 "file": "05 TTRPG/Warhammer 40k Imperium Maledictum/Сет Ингрит.md",
                 "mode": "preview",
-                "file": "Dashboard.md",
-                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Сет Ингрит"
-              "title": "Dashboard"
             }
           }
         ]
@@ -81,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "right": {
     "id": "4d37f562336541e4",
@@ -213,44 +209,23 @@
     }
   },
   "active": "e7a7b303c61786dc",
-  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "05 TTRPG/Warhammer 40k Imperium Maledictum/Сет (копия).md",
     "05 TTRPG/Warhammer 40k Imperium Maledictum/Сессия 1.md",
+    "Dashboard.md",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сет Ингрит.md",
     "05 TTRPG/Warhammer 40k Imperium Maledictum/Сектор Махарий.md",
     "05 TTRPG/Warhammer 40k Imperium Maledictum/Правила чтобы не забыть.md",
     "05 TTRPG/Warhammer 40k Imperium Maledictum/Покровитель.md",
     "05 TTRPG/Warhammer 40k Imperium Maledictum/Магос Биологис.md",
     "05 TTRPG/Warhammer 40k Imperium Maledictum/Арк Итерим iii.md",
     "Untitled.md",
-    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сет Ингрит.md",
-    "Dashboard.md",
-    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сет Ингрит.md",
-    "00 Home/To buy/NAS.md",
-    "00 Home/To buy/Аргел Тал минька.md",
-    "00 Home/Bases/weekly-tasks.base",
-    "00 Home/Bases/watch.base",
-    "00 Home/Bases/learn.base",
-    "00 Home/Bases/projects.base",
-    "00 Home/Bases/journals.base",
-    "00 Home/Bases/daily-tasks.base",
-    "00 Home/Bases/buy.base",
-    "03 Project/Проявка фото.md",
-    "03 Project/Идеи для маленьких личных проектов.md",
-    "03 Project/Все достижения в Warhammer Rogue Trader.md",
     "изменения.md",
     "99 Meta/Files/Pasted image 20251231003019.png",
     "99 Meta/Files/Pasted image 20251231002949.png",
     "99 Meta/Files/Pasted image 20251230225336.png",
     "99 Meta/Files/Pasted image 20251230225238.png",
     "99 Meta/Files/Pasted image 20251230225223.png",
-    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сессия 1.md",
-    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сектор Махарий.md",
-    "05 TTRPG/Warhammer 40k Imperium Maledictum/Правила чтобы не забыть.md",
-    "05 TTRPG/Warhammer 40k Imperium Maledictum/Покровитель.md",
-    "05 TTRPG/Warhammer 40k Imperium Maledictum/Магос Биологис.md",
-    "05 TTRPG/Warhammer 40k Imperium Maledictum/Арк Итерим iii.md",
-    "05 TTRPG/Warhammer 40k Imperium Maledictum/Сет (копия).md",
     "03 Project/Первый видос на ютуб/愚人船 NARRENSCHIFF.md",
     "05 TTRPG/Warhammer 40k. Dark Heresy 2/Лист персонажа.md",
     "03 Project/Первый видос на ютуб",
@@ -262,13 +237,24 @@
     "99 Meta/Files/Pasted image 20251226094402.png",
     "99 Meta/Files/Pasted image 20251226093921.png",
     "04 Resourses/Books view.base",
+    "05 TTRPG/Warhammer 40k Imperium Maledictum",
     "05 TTRPG/Warhammer 40k. Dark Heresy 2/Без названия.md",
+    "99 Meta/Files/DH_II_-OKP_-_v_1_8.pdf",
     "04 Resourses/SoloRPG/Core rulebook.md",
+    "04 Resourses/SoloRPG view.base",
     "04 Resourses/SoloRPG/Листы персонажа (2 ред.).md",
+    "99 Meta/Files/Set_player_list.pdf",
+    "99 Meta/Files/DH_II_-_list_personazha_-_v_1_0.pdf",
+    "05 TTRPG/Warhammer 40k. Dark Heresy 2",
+    "05 TTRPG",
     "00 Home/AllTasks/Др степана я обещала викторию в стиме.md",
     "преза.md",
+    "03 Project/Все достижения в Warhammer Rogue Trader.md",
     "04 Resourses/People/Анастасия Базылева.md",
     "04 Resourses/People/Степан Поздняков.md",
-    "04 Resourses/People/Настя.md"
+    "04 Resourses/People/Настя.md",
+    "00 Home/To buy/Круг пепла (5 шт).md",
+    "00 Home/To buy/Гал Ворбак (5 шт).md",
+    "00 Home/To buy/Аргел Тал минька.md"
   ]
 }
